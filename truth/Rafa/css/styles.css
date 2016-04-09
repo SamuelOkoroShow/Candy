@@ -1,0 +1,177 @@
+.fullscreen-bg {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-image: url('../assets/DeathtoStock_Clementine5.jpg');
+    min-width: 100%;
+    width: auto;
+    min-height: 100%;
+    height: auto;
+    border-bottom: 5px solid #75a4cb;
+}
+.overlay {
+    min-width: 100%;
+    width: auto;
+    min-height: 100%;
+    height: auto;
+    background-repeat: repeat !important;
+    background-image: url('../assets/overlay-pattern.png');
+}
+.iphoneTop {
+    width: 180px;
+    margin: 50px;
+}
+.sect1 .row {
+    padding: 20px;
+}
+.head h1 {
+    color: white;
+    font-weight: 600;
+    font-size: 4em;
+    width: 90%;
+    margin-top: 50px;
+}
+.copy {
+    color: #999;
+    font-weight: 200;
+}
+.center {
+    text-align: center;
+}
+.caption {
+    color: #999;
+    text-transform: uppercase;
+    max-width: 420px;
+    text-align: center;
+    margin: auto;
+}
+.logocenter {
+    width: 120px;
+    margin: 1.3em;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+.sect2 h2 {
+    color: #3684c7;
+    ;
+    font-size: 3.5em;
+    margin-top: 40px;
+    font-weight: 100;
+}
+h2 {
+    color: #3684c7;
+    ;
+    font-size: 3em;
+    margin-top: 40px;
+    font-weight: 100;
+}
+.stoked {
+    background: #75a4cb;
+    font-size: 15px;
+    padding: 14px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 300;
+    border: 0px;
+    border-bottom: 3px solid #5683a8;
+}
+.footer {
+    background: #333;
+    padding: 20px;
+}
+.footer .logo {
+    width: 80px;
+    margin: 30px;
+}
+.stoked2 {
+    font-weight: 300;
+    text-transform: uppercase;
+    background: #75a4cb;
+    font-size: 1em;
+    padding: 14px;
+    color: white;
+    margin-top: 20px;
+    border: 0px;
+    border-bottom: 3px solid #5683a8;
+}
+.right{
+text-align: right;
+}
+.row2 {
+    background: #75a4cb;
+    color: white;
+    width: 100%;
+    max-width: none;
+}
+
+.row2 h3{
+color: white;
+    
+}
+.thrd {
+    margin-bottom: 35px;
+}
+.email {
+    width: 230px;
+    border: 0;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    height: 50px;
+}
+.padded {
+    margin-top: 10px;
+    
+}
+.downs{
+width: 200px;
+float: right;}
+.wrap {
+    width: auto;
+}.rightF{float: right;}
+.row {
+    max-width: 800px;
+    margin: auto;
+    left: 50%;
+}
+.phone4 {
+    display: none;
+}
+h3 {
+    font-weight: 100;
+    color: #555;
+    font-size: 2.3em;
+    text-transform: uppercase;
+}
+.padThai {
+    padding-top: 130px;
+}
+.h3low {
+    font-size: 2em;
+}
+.numbers {
+    width: 1em;
+    margin: 20px;
+}
+.sect3 {
+    background: #F3F3F3;
+    border-top: 2px solid #999;
+
+}
+@media screen and (max-width: 766px) {
+    .head h1 {
+        font-size: 2.5em;
+    }
+    .sect2 h2 {
+        font-size: 3em;
+    }
+    .phone3 {
+        display: none;
+    }
+    .phone4 {
+        display: block;
+    }
+}
+
+.heighlight {
+    color:orange;
+}
